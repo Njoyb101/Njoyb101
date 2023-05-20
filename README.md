@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm an enthusiastic data engineer with knowledge of KPI reporting, end-to-end pipeline deployment, and cost-cutting techniques. I enjoy using code to drive innovation and am skilled at building effective data input platforms. I enjoy using AWS stack for my solutions. Curently exploring Azure Data Stack.
+
+### Find me in the Web 🌏
+Connect me in  ![Linkedin](https://www.linkedin.com/in/njoyb/)
+
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoyb101)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
