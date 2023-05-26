@@ -1,5 +1,6 @@
 ![Banner](./resources/banner.png)
-![Banner](https://github.com/Njoyb101/Njoyb101/blob/main/resources/banner.png)
+[<img src='https://github.com/Njoyb101/Njoyb101/blob/main/resources/banner.png' >]
+
 ---
 ### Hi there 👋, Neelanjoy here !!
 #### Data Engineer
